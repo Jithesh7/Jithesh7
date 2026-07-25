@@ -25,13 +25,13 @@ Computer Science Graduate specializing in **Data Science** with a strong backgro
 
 ### 📁 Featured Projects
 
-- 🛡️ **[Android Malware Detection Using VQC](https://github.com/Jithesh7)**
+- 🛡️ **[Android Malware Detection Using VQC]([https://github.com/Jithesh](https://github.com/Jithesh7/android-malware-detection-vqc)7)**
   - A hybrid Quantum Machine Learning (QML) pipeline using **Androguard**, **SMOTE**, and **Variational Quantum Classifiers (VQC)** for real-time threat detection with **SHAP/LIME** interpretability.
 
-- ✈️ **[Group Travel Recommender System](https://github.com/Jithesh7)**
+- ✈️ **[Group Travel Recommender System]([https://github.com/Jithesh7](https://github.com/Jithesh7/Group-Travel-Recommendation-System))**
   - A Flask-based hybrid recommendation platform combining **Cosine Similarity Collaborative Filtering** and **Random Forest Regression** with a travel matchmaking module.
 
-- 📚 **[ShareBook - Book Sharing Platform](https://github.com/Jithesh7)**
+- 📚 **[ShareBook - Book Sharing Platform]([https://github.com/Jithesh7](https://github.com/Jithesh7/sharebook))**
   - A PHP/MySQL web application for peer-to-peer book sharing featuring real-time analytics dashboards (Chart.js / DataTables) and an admin resolution system.
 
 ---
