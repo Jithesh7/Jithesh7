@@ -6,7 +6,7 @@ Computer Science Graduate specializing in **Data Science** with a strong backgro
 
 ### 🚀 About Me
 - 🎓 **Education:** B.Tech in Computer Science & Engineering (Data Science) | Diploma in Computer Hardware Engineering
-- 💻 **Core Focus:** Machine Learning, Quantum Machine Learning (QML), Full-Stack Web Development, & Systems Administration
+- 💻 **Core Focus:** Machine Learning, Full-Stack Web Development, & Systems Administration
 - 🛠️ **Tech Stack:** Python, Flask, SQL, Scikit-Learn, PennyLane, Androguard, Git
 
 ---
