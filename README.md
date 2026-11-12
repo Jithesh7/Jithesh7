@@ -6,8 +6,8 @@ Computer Science Graduate specializing in **Data Science** with a strong backgro
 
 ### 🚀 About Me
 - 🎓 **Education:** B.Tech in Computer Science & Engineering (Data Science) | Diploma in Computer Hardware Engineering
-- 💻 **Core Focus:** Machine Learning, Full-Stack Web Development, & Systems Administration
-- 🛠️ **Tech Stack:** Python, Flask, SQL, Scikit-Learn, PennyLane, Androguard, Git
+- 💻 **Core Focus:** Machine Learning, Full Stack Web Development, & Systems Administration
+- 🛠️ **Tech Stack:** Python, Flask, SQL, Scikit Learn, PennyLane, Androguard, Git
 
 ---
 
@@ -16,7 +16,7 @@ Computer Science Graduate specializing in **Data Science** with a strong backgro
 | Domain | Skills & Tools |
 |---|---|
 | **Languages & Frameworks** | Python, Java, SQL, PHP, Flask, HTML/CSS |
-| **Data Science & ML** | Scikit-Learn, Pandas, NumPy, Collaborative Filtering, Random Forest, SHAP/LIME |
+| **Data Science & ML** | Scikit Learn, Pandas, NumPy, Collaborative Filtering, Random Forest, SHAP,LIME |
 | **Quantum & Security** | PennyLane, Qiskit, Variational Quantum Classifiers (VQC), Androguard |
 | **Hardware & Networking** | Systems Architecture, Network Administration, Hardware Diagnostics |
 | **Tools & Utilities** | Git, SQLite, MySQL, DataTables |
